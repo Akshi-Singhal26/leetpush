@@ -1,0 +1,2 @@
+# leetpush
+leetcode qns 
